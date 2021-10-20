@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace CLG_DB
+namespace College_Management_System
 {
     public class MvcApplication : System.Web.HttpApplication
     {
